@@ -1,0 +1,112 @@
+body{
+    background-color: rgb(236, 232, 228);
+}
+
+#overview {
+    width: 50%;
+    margin: 10px auto;
+    background-color: antiquewhite;
+    border: solid 5px rgb(238, 200, 150);
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    flex: 1;
+}
+
+#overview p {
+    text-align: right;
+    font-size: 12px;
+    margin: -10px auto auto auto;
+}
+
+#content {
+    display: flex;
+    background-color: antiquewhite;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: solid 5px rgb(238, 200, 150);
+    border-radius: 5px;
+}
+
+#roman-table-container{
+    flex: 1;
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto;
+    background-color: rgb(240, 210, 172);
+    border: solid 3px rgb(237, 180, 105);
+    border-radius: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 1%;
+    height: auto;
+}
+
+#roman-table {
+    width: 100%;
+    margin: auto;
+    font-size: 17px;
+    border-collapse: collapse;
+}
+
+.left-col {
+    border-right: solid rgb(232, 143, 28);
+}
+
+td.left-col {
+    border-top: solid rgb(232, 143, 28);
+    border-bottom: solid rgb(232, 143, 28);
+}
+
+td.right-col {
+    border-left: solid rgb(232, 143, 28);
+    border-top: solid rgb(232, 143, 28);
+    border-bottom: solid rgb(232, 143, 28);
+}
+
+#main-ui-container {
+    flex: 2;
+}
+
+#description {
+    border: solid 3px rgb(237, 180, 105);
+    background-color: rgb(240, 210, 172);
+    border-radius: 10px;
+    margin-right: 3%;
+    font-style: oblique;
+    text-align: center;
+}
+
+#user-space-container {
+    font-family:  'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+input {
+    width: 30%;
+    font-size: 30px;
+    font-family:  'Times New Roman', Times, serif;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border-radius: 10px;
+    border: solid 3px rgb(237, 180, 105);
+}
+
+#output {
+    font-size: 30px;
+    font-weight: 550;
+    font-family:  'Times New Roman', Times, serif;
+    color: rgb(240, 152, 38);
+}

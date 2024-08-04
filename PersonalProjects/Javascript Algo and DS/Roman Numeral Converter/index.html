@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Roman Numeral Converter</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div id="overview">
+            <h1>Roman Numeral Converter</h1>
+            <p>@KavithRanch</p>
+        </div>
+        <div id="content">
+            <div id="roman-table-container">
+                <table id="roman-table">
+                    <tr>
+                        <th class="left-col">Roman Numerals</th>
+                        <th class="right-col">Arabic Numerals</th>
+                    </tr>
+                    <tr>
+                        <td class="left-col">M</td>
+                        <td class="right-col">1000</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">CM</td>
+                        <td class="right-col">900</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">D</td>
+                        <td class="right-col">500</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">CD</td>
+                        <td class="right-col">400</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">C</td>
+                        <td class="right-col">100</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">XC</td>
+                        <td class="right-col">90</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">L</td>
+                        <td class="right-col">50</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">XL</td>
+                        <td class="right-col">40</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">X</td>
+                        <td class="right-col">10</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">IX</td>
+                        <td class="right-col">9</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">V</td>
+                        <td class="right-col">5</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">IV</td>
+                        <td class="right-col">4</td>
+                    </tr>
+                    <tr>
+                        <td class="left-col">I</td>
+                        <td class="right-col">1</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="main-ui-container">
+                <div id="description-container">
+                    <p id="description"><strong>The Ancient Roman Numeral system differs from the widely used Arabic Numerical System. While it can be difficult to translate between both systems, this converter allows you to go between the two with ease.</strong></p>
+                </div>
+                <div id="user-space-container">
+                    <label for="number">Arabic (Integer) Numbers &#8594 Roman Numerals</label>
+                    <input id="number" type="number" placeholder="Begin Typing..."/>
+                    <div id="output-container">
+                        <p id="output"></p>
+                    </div>
+                </div>
+            </div> 
+        </div> 
+    </body>
+    <script src="script.js"></script>
+</html>
