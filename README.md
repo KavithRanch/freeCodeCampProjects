@@ -33,7 +33,7 @@ Three Markers created solely from CSS styling
 Basic Registration Page     
 [View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Responsive%20Web%20Design/Registration%20Page/index.html)  
     
-### **:notes: Music Player <sub>_(Javascript Algos and DS)_</sub>** 
+### **Music Player <sub>_(Javascript Algos and DS)_</sub>** 
 *`HTML, CSS, Javascript`*   
 Music Player with options for music selection, playing pausing and shuffling tracks     
 [View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Javascript%20Algo%20and%20DS/Music%20Player/index.html)    
