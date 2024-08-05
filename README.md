@@ -8,7 +8,7 @@ ________________________________________________________________________________
 ### **:capital_abcd: Roman Numeral Converter <sub>_(Javascript Algos and DS)_</sub>**  
 *`HTML, CSS, Javascript`*   
 Converts the commonly-used Arabic Numeral System into the Roman Numeral System  
-[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Roman%20Numeral%20Converter/index.html)       
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Roman%20Numeral%20Converter/index.html){:target="_blank"}       
     
 ### **:keyboard: Palindrome Checker <sub>_(Javascript Algos and DS)_</sub>**   
 *`HTML, CSS, Javascript`*   
