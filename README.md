@@ -18,7 +18,7 @@ Checks whether inputted words are palindromes
 ### **:pager: Universe Database <sub>_(Relational Database)_</sub>**   
 *`PostgreSQL`*   
 Basic Database which contains tables with celestial objects information   
-[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Palindrome%20Checker/index.html)  
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Universe%20Database/universe.sql)  
 
 _________________________________________________________________________________________________________
 ## Course-Directed Projects:    
