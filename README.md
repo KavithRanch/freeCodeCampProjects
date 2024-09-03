@@ -15,6 +15,11 @@ Converts the commonly-used Arabic Numeral System into the Roman Numeral System
 Checks whether inputted words are palindromes   
 [View Project](https://KavithRanch.github.io/freeCodeCampProjects/Palindrome%20Checker/index.html)  
 
+### **:pager: Universe Database <sub>_(Relational Database)_</sub>**   
+*`PostgreSQL`*   
+Basic Database which contains tables with celestial objects information   
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Palindrome%20Checker/index.html)  
+
 _________________________________________________________________________________________________________
 ## Course-Directed Projects:    
     
