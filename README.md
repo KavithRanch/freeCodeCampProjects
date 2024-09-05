@@ -18,12 +18,12 @@ Checks whether inputted words are palindromes
 ### **:pager: Universe Database <sub>_(Relational Database)_</sub>**   
 *`PostgreSQL`*   
 Basic Database which contains tables with celestial objects information   
-[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Universe%20Database)  
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/Universe%20Database/universe.sql)  
 
 ### **:trophy: World Cup Database <sub>_(Relational Database)_</sub>**   
 *`PostgreSQL, Bash`*   
 Bash Script used to sort 2014 & 2018 World Cup results from a local .csv file. Included example SQL queries on how to access data required. 
-[View Project](https://github.com/KavithRanch/freeCodeCampProjects/tree/main/World%20Cup%20Database)
+[View Project](https://github.com/KavithRanch/freeCodeCampProjects/tree/main/World%20Cup%20Database/insert_data.sh)
 _________________________________________________________________________________________________________
 ## Course-Directed Projects:    
     
@@ -55,4 +55,4 @@ Simple UI Game with the objective of slayers monsters, collecting gold, upgradin
 ### **:school: University Database <sub>_(Relational Database)_</sub>** 
 *`PostgreSQL, Bash`*   
 Bash script used to organize a University database by ciphering through two CSV files containing student and course information     
-[View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Relational%20Database/Student%20Database)
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Relational%20Database/Student%20Database/insert_data.sh)
