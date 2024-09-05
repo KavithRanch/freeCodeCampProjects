@@ -55,4 +55,4 @@ Simple UI Game with the objective of slayers monsters, collecting gold, upgradin
 ### **:school: University Database <sub>_(Relational Database)_</sub>** 
 *`PostgreSQL, Bash`*   
 Bash script used to organize a University database by ciphering through two CSV files containing student and course information     
-[View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Relational%20Database/Student%20Database/insert_data.sh)
+[View Project](https://github.com/KavithRanch/freeCodeCampProjects/blob/main/CourseDirectedProjects/Relational%20Database/Student%20Database/insert_data.sh)
