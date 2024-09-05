@@ -20,7 +20,7 @@ Checks whether inputted words are palindromes
 Basic Database which contains tables with celestial objects information   
 [View Project](https://KavithRanch.github.io/freeCodeCampProjects/Universe%20Database)  
 
-### **:soccer: World Cup Database <sub>_(Relational Database)_</sub>**   
+### **:trophy: World Cup Database <sub>_(Relational Database)_</sub>**   
 *`PostgreSQL, Bash`*   
 Bash Script used to sort 2014 & 2018 World Cup results from a local .csv file. Included example SQL queries on how to access data required. 
 [View Project](https://github.com/KavithRanch/freeCodeCampProjects/tree/main/World%20Cup%20Database)
