@@ -47,3 +47,8 @@ Music Player with options for music selection, playing pausing and shuffling tra
 *`HTML, CSS, Javascript`*   
 Simple UI Game with the objective of slayers monsters, collecting gold, upgrading weapons in order to defeat the Final Boss Dragon    
 [View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Javascript%20Algo%20and%20DS/RPG%20Dragon%20Repeller/index.html)
+
+### **:school: University Database <sub>_(Relational Database)_</sub>** 
+*`PostgreSQL, Bash`*   
+Bash script used to organize a University database by ciphering through two CSV files containing student and course information     
+[View Project](https://KavithRanch.github.io/freeCodeCampProjects/CourseDirectedProjects/Relational%20Database/Student%20Database/insert_data.sh)
